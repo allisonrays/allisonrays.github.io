@@ -2613,6 +2613,22 @@ input, select, textarea {
 
 		}
 
+
+	.button-row {
+	    display: flex;
+	    justify-content: center;
+	}
+	
+	.button-row .actions {
+	    display: flex;
+	    gap: 1.5rem;
+	}
+	
+	.update {
+	    text-align: center;
+	    margin-top: 1.5rem;
+	}
+
 /* Icons */
 
 	ul.icons {
