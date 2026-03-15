@@ -3799,3 +3799,23 @@ input, select, textarea {
 			}
 
 		}
+
+	
+/* Center footer content */
+	#footer {
+	    text-align: center;
+	}
+	
+	#footer .inner {
+	    display: flex;
+	    flex-direction: column;
+	    align-items: center;
+	}
+	
+	#footer .actions {
+	    justify-content: center;
+	}
+	
+	#footer .icons {
+	    justify-content: center;
+	}
